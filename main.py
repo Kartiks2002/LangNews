@@ -106,4 +106,4 @@ if query:
 
 else:
     if st.button("Submit Question"):
-        st.error("Please enter a question to submit.")
+        st.error("Please enter a question to submit.") 
